@@ -155,7 +155,6 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <label>Demo Object</label>
-
     <nameField>
         <label>Demo Custom  Name</label>
         <type>Text</type>
@@ -173,36 +172,18 @@
         <type>Checkbox</type>
     </fields>
     <fields>
+        <fullName>Field_Six__c</fullName>
+        <externalId>false</externalId>
+        <label>Field Six</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Field_Two__c</fullName>
         <externalId>false</externalId>
         <label>Field Two</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Email</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Field_Three__c</fullName>
-        <externalId>false</externalId>
-        <label>Field Three</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Email</type>
-        <unique>false</unique>
-    </fields>
-     <fields>
-        <fullName>Field_Four__c</fullName>
-        <externalId>false</externalId>
-        <label>Field Four</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Email</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Field_Five__c</fullName>
-        <externalId>false</externalId>
-        <label>Field Five</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Email</type>
